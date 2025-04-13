@@ -18,4 +18,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 
-![snake gif](https://github.com/L21NKS/L21NKS/blob/output/github-contribution-grid-snake.gif)
+
