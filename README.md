@@ -3,7 +3,7 @@ Hi my name is L21NKS
 ![Demo](glitch_effect.gif)
 ---
 
-![L21NKS GitHub stats](https://github-readme-stats.vercel.app/api?username=L21NKS&show_icons=true&theme=synthwave)
+![L21NKS GitHub stats](https://github-readme-stats.vercel.app/api?username=L21NKS&show_icons=true&theme=shadow_red)
 
 ---
 
