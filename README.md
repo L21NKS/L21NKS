@@ -3,11 +3,11 @@ Hi my name is L21NKS
 ![Demo](glitch_effect.gif)
 ---
 
-![L21NKS GitHub stats](https://github-readme-stats.vercel.app/api?username=L21NKS&show_icons=true&theme=swift)
+![L21NKS GitHub stats](https://github-readme-stats.vercel.app/api?username=L21NKS&show_icons=true&theme=swift) ![Codewars](https://github.r2v.ch/codewars?user=L21NKS&stroke=%23BB432C)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=L21NKS) ![Codewars](https://github.r2v.ch/codewars?user=L21NKS&stroke=%23BB432C)
+![](https://komarev.com/ghpvc/?username=L21NKS) 
 
 ---
 
