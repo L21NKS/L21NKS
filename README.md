@@ -7,11 +7,9 @@ Hi my name is L21NKS
 
 ---
 
-![](https://komarev.com/ghpvc/?username=L21NKS)
+![](https://komarev.com/ghpvc/?username=L21NKS) ![Codewars](https://github.r2v.ch/codewars?user=L21NKS&stroke=%23BB432C)
 
 ---
-
-![Codewars](https://github.r2v.ch/codewars?user=L21NKS&stroke=%23BB432C)
 
 ### Skills
 
